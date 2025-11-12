@@ -92,8 +92,7 @@ const SpeakersSection = () => {
                     target='_blank'
                     className="flex items-center gap-2 px-4 py-2 bg-slate-700 hover:bg-microsoft-blue rounded-lg transition-all duration-300 hover:scale-105"
                   >
-                    <Linkedin className="w-4 h-4" />
-                    <span className="text-sm font-semibold">LinkedIn</span>
+                    <Linkedin className="w-5 h-5"/>
                   </a>
 
                   <a 
@@ -101,8 +100,7 @@ const SpeakersSection = () => {
                     target='_blank'
                     className="flex items-center gap-2 px-4 py-2 bg-slate-700 hover:bg-slate-600 rounded-lg transition-all duration-300 hover:scale-105"
                   >
-                    <Github className="w-4 h-4" />
-                    <span className="text-sm font-semibold">GitHub</span>
+                    <Github className="w-5 h-5"/>
                   </a>
 
                   <a 
@@ -110,8 +108,7 @@ const SpeakersSection = () => {
                     target='_blank'
                     className="flex items-center gap-2 px-4 py-2 bg-slate-700 hover:bg-slate-600 rounded-lg transition-all duration-300 hover:scale-105"
                   >
-                    <Link2 className="w-4 h-4" />
-                    <span className="text-sm font-semibold">Portfolio</span>
+                    <Link2 className="w-5 h-5" />
                   </a>
                 </div>
               </div>
