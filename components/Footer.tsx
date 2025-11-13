@@ -64,7 +64,7 @@ const Footer = () => {
             <div className="flex items-start gap-2 text-gray-400 text-sm">
               <MapPin className="w-4 h-4 mt-1 flex-shrink-0 text-microsoft-blue" />
                 <a 
-                  href="https://www.google.com/maps/place/Guru+Nanak+Institute+of+Technology/@22.6951326,88.3763246,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89c6df041e831:0x6e3fc1531d1cb33!8m2!3d22.6951326!4d88.3788995!16s%2Fm%2F0b6h3tw?entry=ttu&g_ep=EgoyMDI1MTEwOS4wIKXMDSoASAFQAw%3D%3D"
+                  href="https://gnit.ac.in/"
                   target='_blank'
                 >
 
