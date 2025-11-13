@@ -6,7 +6,7 @@ const AboutSection = () => {
     {
       icon: Rocket,
       title: "Official Chapter Launch",
-      description: "Be part of history as we officially inaugurate the Microsoft Student Ambassadors GNIT Chapter and embark on a journey of innovation."
+      description: "Be part of history as we officially inaugurate the Microsoft Student Ambassadors - GNIT Chapter and embark on a journey of innovation."
     },
     {
       icon: GitBranch,

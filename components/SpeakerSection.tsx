@@ -66,7 +66,11 @@ const SpeakersSection = () => {
               </div>
 
               <div className="p-8">
-                <h3 className="text-2xl font-bold mb-2 text-white">{speaker.name}</h3>
+                <a 
+                  href={speaker.portfolio} 
+                  target='_blank'>
+                  <h3 className="text-2xl font-bold mb-2 text-white">{speaker.name}</h3>
+                </a>
                 
                 {/* Credentials */}
                 <div className="space-y-2 mb-4">

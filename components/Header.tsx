@@ -45,7 +45,7 @@ const Header = () => {
             </div>
             <div>
               <h1 className="text-xl md:text-2xl font-bold text-white">MSA-GNIT</h1>
-              <p className="text-xs md:text-sm text-gray-400">Microsoft Student Ambassadors</p>
+              <p className="text-xs md:text-sm text-gray-400">Microsoft Student Ambassadors - GNIT Chapter</p>
               <p className="text-xs text-gray-500 hidden sm:block">Guru Nanak Institute of Technology, Kolkata</p>
             </div>
           </a>

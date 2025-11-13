@@ -55,7 +55,7 @@ const Footer = () => {
               </div>
               <div>
                 <h3 className="text-lg font-bold text-white">MSA-GNIT</h3>
-                <p className="text-xs text-gray-400">Microsoft Student Ambassadors</p>
+                <p className="text-xs text-gray-400">Microsoft Student Ambassadors - GNIT Chapter</p>
               </div>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
