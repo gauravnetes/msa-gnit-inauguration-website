@@ -40,7 +40,7 @@ const HeroSection = () => {
 
           <p className="text-lg md:text-xl text-gray-300 mb-12 max-w-3xl mx-auto">
             Join us for the official launch of Microsoft Student Ambassadors GNIT Chapter. 
-            Learn about GitHub, Open-Source contributions, and building with Gen-AI.
+            Learn about GitHub, Open-Source contributions, and building Applications with Gen-AI.
           </p>
 
           {/* Event Details Cards */}

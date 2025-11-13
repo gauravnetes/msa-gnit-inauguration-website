@@ -15,8 +15,8 @@ const AboutSection = () => {
     },
     {
       icon: Sparkles,
-      title: "Building with Gen-AI",
-      description: "Explore the cutting-edge world of Generative AI and learn how to build intelligent applications using modern AI technologies."
+      title: "Building Applications with Gen-AI",
+      description: "Explore the cutting-edge world of Generative AI and learn how to build intelligent Applications using modern AI technologies."
     }
   ];
 

@@ -96,17 +96,6 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <a 
-                  href="https://mvp.microsoft.com/studentambassadors" 
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gray-400 hover:text-microsoft-blue transition-colors duration-300 text-sm flex items-center gap-1 group"
-                >
-                  <span className="group-hover:translate-x-1 transition-transform duration-300">About MLSA Program</span>
-                  <ExternalLink className="w-3 h-3 opacity-0 group-hover:opacity-100 transition-opacity" />
-                </a>
-              </li>
-              <li>
-                <a 
                   href="https://learn.microsoft.com/" 
                   target="_blank"
                   rel="noopener noreferrer"

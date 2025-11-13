@@ -10,7 +10,7 @@ const SpeakersSection = () => {
       name: "Mr. Aditya Seth",
       image: adityaSethImg,
       credentials: [
-        { icon: Briefcase, text: "Founder's Office Associate at TBAI" },
+        { icon: Briefcase, text: "SWE at TBAI" },
         { icon: Award, text: "Gold Microsoft Learn Student Ambassador" }
       ],
       topic: "GitHub and Open-Source Contributions for Beginners",

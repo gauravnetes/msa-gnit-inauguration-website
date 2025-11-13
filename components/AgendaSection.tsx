@@ -4,9 +4,15 @@ import { Clock } from 'lucide-react';
 const AgendaSection = () => {
   const agenda = [
     {
+      time: "10:30 AM",
+      title: "Reporting Time",
+      description: "Attendees Report to the Venue"
+    },
+
+    {
       time: "11:00 AM - 11:30 AM",
       title: "Welcome & Inauguration",
-      description: "Opening ceremony and official launch of the MSA-GNIT Chapter"
+      description: "Opening ceremony and official launch of the Microsoft Student Ambassadors - GNIT Chapter"
     },
     {
       time: "11:30 AM - 1:00 PM",
@@ -15,8 +21,8 @@ const AgendaSection = () => {
     },
     {
       time: "1:00 - 2:30 PM",
-      title: "Session 2: Building with Gen-AI",
-      description: "Explore generative AI application development with Mr. Gourav Ghosal"
+      title: "Session 2: Building Applications with Gen-AI",
+      description: "Explore Gen-AI application development with Mr. Gourav Ghosal"
     },
     {
       time: "2:30 PM",
